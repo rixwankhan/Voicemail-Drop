@@ -1,2 +1,2 @@
 # Voicemail-Drop
-Voicemail Drop system built with Asterisk. 
+Looking for Voicemail Drop system built with Asterisk. Contact me at akhanriz@gmail.com 
